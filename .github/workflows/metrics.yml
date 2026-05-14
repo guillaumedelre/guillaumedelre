@@ -27,3 +27,7 @@ jobs:
           plugin_contributors_sections: contributors
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_charts: yes
+          plugin_habits_facts: yes
