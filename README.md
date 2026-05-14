@@ -1,6 +1,10 @@
 ### Hey 👋
 
-📝 I write about PHP, Symfony and backend dev on **[guillaumedelre.github.io](https://guillaumedelre.github.io)**
+📝 I write about tech experiments, dev and whatever I find interesting on **[guillaumedelre.github.io](https://guillaumedelre.github.io)**
+
+#### 📜 My recent blog posts
+
+- [Hello, World](https://guillaumedelre.github.io/2026/05/14/hello-world/) (today)
 
 #### 👷 Check out what I'm currently working on
 
