@@ -25,3 +25,5 @@ jobs:
           plugin_contributors: yes
           plugin_contributors_repositories: guillaumedelre/guillaumedelre
           plugin_contributors_sections: contributors
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
