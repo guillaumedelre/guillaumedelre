@@ -4,7 +4,11 @@
 
 #### 📜 My recent blog posts
 
-- [Hello, World](https://guillaumedelre.github.io/2026/05/14/hello-world/) (today)
+- [Symfony 8.0: PHP 8.4 minimum, native lazy objects, and FormFlow](https://guillaumedelre.github.io/2026/01/12/symfony-8-0/) (4 months ago)
+- [Symfony 7.4 LTS: message signing, PHP config arrays, and the last 7.x](https://guillaumedelre.github.io/2026/01/10/symfony-7-4-lts/) (4 months ago)
+- [PHP 8.5: the pipe operator and a proper URI library](https://guillaumedelre.github.io/2026/01/04/php-8-5/) (4 months ago)
+- [Local HTTPS with Traefik: traefik.me is dead, long live sslip.io](https://guillaumedelre.github.io/2025/04/17/traefik-local-https-mkcert-sslip/) (1 year ago)
+- [PHP 8.4: property hooks and the end of the getter/setter ceremony](https://guillaumedelre.github.io/2025/01/05/php-8-4/) (1 year ago)
 
 #### 👷 Check out what I'm currently working on
 
