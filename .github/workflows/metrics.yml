@@ -31,3 +31,6 @@ jobs:
           plugin_habits_from: 200
           plugin_habits_charts: yes
           plugin_habits_facts: yes
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_filter: push, issue, pr, release
