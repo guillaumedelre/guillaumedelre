@@ -4,11 +4,11 @@
 
 #### 📜 My recent blog posts
 
-- [Symfony 8.0: PHP 8.4 minimum, native lazy objects, and FormFlow](https://guillaumedelre.github.io/2026/01/12/symfony-8-0/) (4 months ago)
-- [Symfony 7.4 LTS: message signing, PHP config arrays, and the last 7.x](https://guillaumedelre.github.io/2026/01/10/symfony-7-4-lts/) (4 months ago)
-- [PHP 8.5: the pipe operator, a URI library, and a lot of cleanup](https://guillaumedelre.github.io/2026/01/04/php-8-5/) (4 months ago)
-- [Observability on FrankenPHP containers before the cloud migration was done](https://guillaumedelre.github.io/2025/06/07/frankenphp-cloud-observability/) (11 months ago)
-- [Local HTTPS with Traefik: traefik.me is dead, long live sslip.io](https://guillaumedelre.github.io/2025/04/17/traefik-local-https-mkcert-sslip/) (1 year ago)
+- [Layers Remember Everything](https://guillaumedelre.github.io/2026/05/15/layers-remember-everything/) (today)
+- [No Witnesses](https://guillaumedelre.github.io/2026/05/15/no-witnesses/) (today)
+- [Ready Is Not the Same as Started](https://guillaumedelre.github.io/2026/05/15/ready-is-not-the-same-as-started/) (today)
+- [The Cache That Was Lying to Us](https://guillaumedelre.github.io/2026/05/15/the-cache-that-was-lying-to-us/) (today)
+- [The Job That Never Exits](https://guillaumedelre.github.io/2026/05/15/the-job-that-never-exits/) (today)
 
 #### 👷 Check out what I'm currently working on
 
