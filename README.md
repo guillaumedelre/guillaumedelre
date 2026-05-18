@@ -13,8 +13,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [guillaumedelre/guillaumedelre.github.io](https://github.com/guillaumedelre/guillaumedelre.github.io) - Tech experiments told as stories · PHP, Symfony, IoT, devops · Jekyll on GitHub Pages (today)
+- [guillaumedelre/homelab](https://github.com/guillaumedelre/homelab) - Infrastructure self-hosted orchestrée avec Traefik et Docker Compose (today)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (today)
-- [guillaumedelre/homelab](https://github.com/guillaumedelre/homelab) - Infrastructure self-hosted orchestrée avec Traefik et Docker Compose (2 days ago)
 - [guillaumedelre/bme280](https://github.com/guillaumedelre/bme280) - python flask api to publish bme280 sensor data in mqtt for my private home assistant  (4 days ago)
 - [guillaumedelre/dream-cheeky-thunder](https://github.com/guillaumedelre/dream-cheeky-thunder) - Self-hosted REST API &#43; web UI to control the Dream Cheeky USB missile launcher over HTTP. Built with FastAPI, packaged as Docker image. Supports Linux and Windows (WSL2).  (5 days ago)
 
