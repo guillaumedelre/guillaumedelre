@@ -12,19 +12,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [guillaumedelre/reqlet](https://github.com/guillaumedelre/reqlet) - Self-hostable API testing tool compatible with Postman Collections. Web app, desktop app (Windows/macOS/Linux), and CLI. (today)
 - [snc/SncRedisBundle](https://github.com/snc/SncRedisBundle) - A Redis bundle for Symfony supporting Predis and PhpRedis (1 day ago)
 - [guillaumedelre/guillaumedelre.github.io](https://github.com/guillaumedelre/guillaumedelre.github.io) - Tech experiments told as stories · PHP, Symfony, IoT, devops · Jekyll on GitHub Pages (2 days ago)
 - [guillaumedelre/homelab](https://github.com/guillaumedelre/homelab) - Infrastructure self-hosted orchestrée avec Traefik et Docker Compose (2 days ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
-- [guillaumedelre/bme280](https://github.com/guillaumedelre/bme280) - python flask api to publish bme280 sensor data in mqtt for my private home assistant  (6 days ago)
 
 #### 🌱 My latest projects
 
+- [guillaumedelre/reqlet](https://github.com/guillaumedelre/reqlet) - Self-hostable API testing tool compatible with Postman Collections. Web app, desktop app (Windows/macOS/Linux), and CLI.
 - [guillaumedelre/homelab](https://github.com/guillaumedelre/homelab) - Infrastructure self-hosted orchestrée avec Traefik et Docker Compose
 - [guillaumedelre/guillaumedelre.github.io](https://github.com/guillaumedelre/guillaumedelre.github.io) - Tech experiments told as stories · PHP, Symfony, IoT, devops · Jekyll on GitHub Pages
 - [guillaumedelre/gh-pr-tracker](https://github.com/guillaumedelre/gh-pr-tracker) - A self-hosted GitHub PR dashboard
 - [guillaumedelre/dream-cheeky-thunder](https://github.com/guillaumedelre/dream-cheeky-thunder) - Self-hosted REST API &#43; web UI to control the Dream Cheeky USB missile launcher over HTTP. Built with FastAPI, packaged as Docker image. Supports Linux and Windows (WSL2). 
-- [guillaumedelre/claude](https://github.com/guillaumedelre/claude) - Claude Code skills for the Symfony ecosystem.
 
 #### 🔭 Latest releases I've contributed to
 
