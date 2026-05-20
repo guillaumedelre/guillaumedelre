@@ -4,19 +4,19 @@
 
 #### 📜 My recent blog posts
 
-- [Eleven Out of Twelve](https://guillaumedelre.github.io/2026/05/17/eleven-out-of-twelve/) (2 days ago)
-- [Ready Is Not the Same as Started](https://guillaumedelre.github.io/2026/05/17/ready-is-not-the-same-as-started/) (2 days ago)
-- [The Cache That Was Lying to Us](https://guillaumedelre.github.io/2026/05/16/the-cache-that-was-lying-to-us/) (3 days ago)
-- [Fifteen Minutes Before the First Test](https://guillaumedelre.github.io/2026/05/16/fifteen-minutes-before-the-first-test/) (3 days ago)
-- [The Host That Hid the Graph](https://guillaumedelre.github.io/2026/05/15/the-host-that-hid-the-graph/) (4 days ago)
+- [Eleven Out of Twelve](https://guillaumedelre.github.io/2026/05/17/eleven-out-of-twelve/) (3 days ago)
+- [Ready Is Not the Same as Started](https://guillaumedelre.github.io/2026/05/17/ready-is-not-the-same-as-started/) (3 days ago)
+- [The Cache That Was Lying to Us](https://guillaumedelre.github.io/2026/05/16/the-cache-that-was-lying-to-us/) (4 days ago)
+- [Fifteen Minutes Before the First Test](https://guillaumedelre.github.io/2026/05/16/fifteen-minutes-before-the-first-test/) (4 days ago)
+- [The Host That Hid the Graph](https://guillaumedelre.github.io/2026/05/15/the-host-that-hid-the-graph/) (5 days ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [snc/SncRedisBundle](https://github.com/snc/SncRedisBundle) - A Redis bundle for Symfony supporting Predis and PhpRedis (today)
-- [guillaumedelre/guillaumedelre.github.io](https://github.com/guillaumedelre/guillaumedelre.github.io) - Tech experiments told as stories · PHP, Symfony, IoT, devops · Jekyll on GitHub Pages (1 day ago)
-- [guillaumedelre/homelab](https://github.com/guillaumedelre/homelab) - Infrastructure self-hosted orchestrée avec Traefik et Docker Compose (1 day ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 day ago)
-- [guillaumedelre/bme280](https://github.com/guillaumedelre/bme280) - python flask api to publish bme280 sensor data in mqtt for my private home assistant  (5 days ago)
+- [snc/SncRedisBundle](https://github.com/snc/SncRedisBundle) - A Redis bundle for Symfony supporting Predis and PhpRedis (1 day ago)
+- [guillaumedelre/guillaumedelre.github.io](https://github.com/guillaumedelre/guillaumedelre.github.io) - Tech experiments told as stories · PHP, Symfony, IoT, devops · Jekyll on GitHub Pages (2 days ago)
+- [guillaumedelre/homelab](https://github.com/guillaumedelre/homelab) - Infrastructure self-hosted orchestrée avec Traefik et Docker Compose (2 days ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 days ago)
+- [guillaumedelre/bme280](https://github.com/guillaumedelre/bme280) - python flask api to publish bme280 sensor data in mqtt for my private home assistant  (6 days ago)
 
 #### 🌱 My latest projects
 
