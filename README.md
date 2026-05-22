@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [guillaumedelre/claude](https://github.com/guillaumedelre/claude) - Claude Code skills for the Symfony ecosystem. (today)
+- [guillaumedelre/claude](https://github.com/guillaumedelre/claude) - Claude Code behavioral rules — tone, commits, git, docker, reporting, and more (today)
 - [snc/SncRedisBundle](https://github.com/snc/SncRedisBundle) - A Redis bundle for Symfony supporting Predis and PhpRedis (3 days ago)
 - [guillaumedelre/guillaumedelre.github.io](https://github.com/guillaumedelre/guillaumedelre.github.io) - Tech experiments told as stories · PHP, Symfony, IoT, devops · Jekyll on GitHub Pages (4 days ago)
 - [guillaumedelre/homelab](https://github.com/guillaumedelre/homelab) - Infrastructure self-hosted orchestrée avec Traefik et Docker Compose (4 days ago)
@@ -24,7 +24,7 @@
 - [guillaumedelre/guillaumedelre.github.io](https://github.com/guillaumedelre/guillaumedelre.github.io) - Tech experiments told as stories · PHP, Symfony, IoT, devops · Jekyll on GitHub Pages
 - [guillaumedelre/gh-pr-tracker](https://github.com/guillaumedelre/gh-pr-tracker) - A self-hosted GitHub PR dashboard
 - [guillaumedelre/dream-cheeky-thunder](https://github.com/guillaumedelre/dream-cheeky-thunder) - Self-hosted REST API &#43; web UI to control the Dream Cheeky USB missile launcher over HTTP. Built with FastAPI, packaged as Docker image. Supports Linux and Windows (WSL2). 
-- [guillaumedelre/claude](https://github.com/guillaumedelre/claude) - Claude Code skills for the Symfony ecosystem.
+- [guillaumedelre/claude](https://github.com/guillaumedelre/claude) - Claude Code behavioral rules — tone, commits, git, docker, reporting, and more
 
 #### 🔭 Latest releases I've contributed to
 
