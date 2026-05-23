@@ -13,18 +13,18 @@
 #### 👷 Check out what I'm currently working on
 
 - [guillaumedelre/claude](https://github.com/guillaumedelre/claude) - Claude Code behavioral rules — tone, commits, git, docker, reporting, and more (today)
+- [guillaumedelre/reqlet](https://github.com/guillaumedelre/reqlet) - Open source Postman desktop replacement — GUI, CLI and self-hostable (today)
 - [snc/SncRedisBundle](https://github.com/snc/SncRedisBundle) - A Redis bundle for Symfony supporting Predis and PhpRedis (4 days ago)
 - [guillaumedelre/guillaumedelre.github.io](https://github.com/guillaumedelre/guillaumedelre.github.io) - Tech experiments told as stories · PHP, Symfony, IoT, devops · Jekyll on GitHub Pages (5 days ago)
 - [guillaumedelre/homelab](https://github.com/guillaumedelre/homelab) - Infrastructure self-hosted orchestrée avec Traefik et Docker Compose (5 days ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (5 days ago)
 
 #### 🌱 My latest projects
 
+- [guillaumedelre/reqlet](https://github.com/guillaumedelre/reqlet) - Open source Postman desktop replacement — GUI, CLI and self-hostable
 - [guillaumedelre/homelab](https://github.com/guillaumedelre/homelab) - Infrastructure self-hosted orchestrée avec Traefik et Docker Compose
 - [guillaumedelre/guillaumedelre.github.io](https://github.com/guillaumedelre/guillaumedelre.github.io) - Tech experiments told as stories · PHP, Symfony, IoT, devops · Jekyll on GitHub Pages
 - [guillaumedelre/gh-pr-tracker](https://github.com/guillaumedelre/gh-pr-tracker) - A self-hosted GitHub PR dashboard
 - [guillaumedelre/dream-cheeky-thunder](https://github.com/guillaumedelre/dream-cheeky-thunder) - Self-hosted REST API &#43; web UI to control the Dream Cheeky USB missile launcher over HTTP. Built with FastAPI, packaged as Docker image. Supports Linux and Windows (WSL2). 
-- [guillaumedelre/claude](https://github.com/guillaumedelre/claude) - Claude Code behavioral rules — tone, commits, git, docker, reporting, and more
 
 #### 🔭 Latest releases I've contributed to
 
