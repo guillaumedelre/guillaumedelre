@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [guillaumedelre/reqlet](https://github.com/guillaumedelre/reqlet) - Native API client and CLI — test, document and automate APIs. Postman compatible, self-hostable, no account required. (1 day ago)
+- [guillaumedelre/reqlet](https://github.com/guillaumedelre/reqlet) - Open source API client: native desktop GUI, CI-ready CLI, and self-hostable web agent. Postman-compatible, offline-first, no account required. (today)
 - [guillaumedelre/claude](https://github.com/guillaumedelre/claude) - Claude Code behavioral rules — tone, commits, git, docker, reporting, and more (1 day ago)
 - [snc/SncRedisBundle](https://github.com/snc/SncRedisBundle) - A Redis bundle for Symfony supporting Predis and PhpRedis (6 days ago)
 - [guillaumedelre/homelab](https://github.com/guillaumedelre/homelab) - Infrastructure self-hosted orchestrée avec Traefik et Docker Compose (1 week ago)
@@ -20,7 +20,7 @@
 
 #### 🌱 My latest projects
 
-- [guillaumedelre/reqlet](https://github.com/guillaumedelre/reqlet) - Native API client and CLI — test, document and automate APIs. Postman compatible, self-hostable, no account required.
+- [guillaumedelre/reqlet](https://github.com/guillaumedelre/reqlet) - Open source API client: native desktop GUI, CI-ready CLI, and self-hostable web agent. Postman-compatible, offline-first, no account required.
 - [guillaumedelre/homelab](https://github.com/guillaumedelre/homelab) - Infrastructure self-hosted orchestrée avec Traefik et Docker Compose
 - [guillaumedelre/guillaumedelre.github.io](https://github.com/guillaumedelre/guillaumedelre.github.io) - Tech experiments told as stories · PHP, Symfony, IoT, devops · Jekyll on GitHub Pages
 - [guillaumedelre/gh-pr-tracker](https://github.com/guillaumedelre/gh-pr-tracker) - A self-hosted GitHub PR dashboard
