@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [guillaumedelre/claude](https://github.com/guillaumedelre/claude) - Claude Code behavioral rules — tone, commits, git, docker, reporting, and more (today)
-- [guillaumedelre/reqlet](https://github.com/guillaumedelre/reqlet) - Open source API client: native desktop GUI, CI-ready CLI, and self-hostable web agent. Postman-compatible, offline-first, no account required. (today)
+- [guillaumedelre/claude](https://github.com/guillaumedelre/claude) - Claude Code behavioral rules — tone, commits, git, docker, reporting, and more (1 day ago)
+- [guillaumedelre/reqlet](https://github.com/guillaumedelre/reqlet) - Open source API client: native desktop GUI, CI-ready CLI, and self-hostable web agent. Postman-compatible, offline-first, no account required. (1 day ago)
 - [snc/SncRedisBundle](https://github.com/snc/SncRedisBundle) - A Redis bundle for Symfony supporting Predis and PhpRedis (1 week ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
 - [guillaumedelre/guillaumedelre.github.io](https://github.com/guillaumedelre/guillaumedelre.github.io) - Tech experiments told as stories · PHP, Symfony, IoT, devops · Jekyll on GitHub Pages (1 week ago)
@@ -28,5 +28,5 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.6](https://github.com/api-platform/core/releases/tag/v4.3.6), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.6](https://github.com/api-platform/core/releases/tag/v4.3.6), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [snc/SncRedisBundle](https://github.com/snc/SncRedisBundle) ([4.11.1](https://github.com/snc/SncRedisBundle/releases/tag/4.11.1), 3 months ago) - A Redis bundle for Symfony supporting Predis and PhpRedis
