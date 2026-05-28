@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [guillaumedelre/reqlet](https://github.com/guillaumedelre/reqlet) - Open source API client: native desktop GUI, CI-ready CLI, and self-hostable web agent. Postman-compatible, offline-first, no account required. (today)
-- [guillaumedelre/claude](https://github.com/guillaumedelre/claude) - Claude Code behavioral rules — tone, commits, git, docker, reporting, and more (1 day ago)
+- [guillaumedelre/reqlet](https://github.com/guillaumedelre/reqlet) - Open source API client: native desktop GUI, CI-ready CLI, and self-hostable web agent. Postman-compatible, offline-first, no account required. (1 day ago)
+- [guillaumedelre/claude](https://github.com/guillaumedelre/claude) - Claude Code behavioral rules — tone, commits, git, docker, reporting, and more (2 days ago)
 - [snc/SncRedisBundle](https://github.com/snc/SncRedisBundle) - A Redis bundle for Symfony supporting Predis and PhpRedis (1 week ago)
 - [guillaumedelre/homelab](https://github.com/guillaumedelre/homelab) - Infrastructure self-hosted orchestrée avec Traefik et Docker Compose (1 week ago)
 - [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
@@ -28,5 +28,5 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.6](https://github.com/api-platform/core/releases/tag/v4.3.6), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [snc/SncRedisBundle](https://github.com/snc/SncRedisBundle) ([4.11.1](https://github.com/snc/SncRedisBundle/releases/tag/4.11.1), 3 months ago) - A Redis bundle for Symfony supporting Predis and PhpRedis
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.6](https://github.com/api-platform/core/releases/tag/v4.3.6), 6 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [snc/SncRedisBundle](https://github.com/snc/SncRedisBundle) ([4.11.1](https://github.com/snc/SncRedisBundle/releases/tag/4.11.1), 4 months ago) - A Redis bundle for Symfony supporting Predis and PhpRedis
