@@ -28,5 +28,5 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.6](https://github.com/api-platform/core/releases/tag/v4.3.6), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.7](https://github.com/api-platform/core/releases/tag/v4.3.7), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [snc/SncRedisBundle](https://github.com/snc/SncRedisBundle) ([4.11.1](https://github.com/snc/SncRedisBundle/releases/tag/4.11.1), 4 months ago) - A Redis bundle for Symfony supporting Predis and PhpRedis
