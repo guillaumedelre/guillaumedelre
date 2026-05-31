@@ -28,6 +28,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.4.3](https://github.com/Spomky-Labs/otphp/releases/tag/11.4.3), today) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
 - [api-platform/core](https://github.com/api-platform/core) ([v4.3.7](https://github.com/api-platform/core/releases/tag/v4.3.7), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [snc/SncRedisBundle](https://github.com/snc/SncRedisBundle) ([4.11.1](https://github.com/snc/SncRedisBundle/releases/tag/4.11.1), 4 months ago) - A Redis bundle for Symfony supporting Predis and PhpRedis
-- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.4.2](https://github.com/Spomky-Labs/otphp/releases/tag/11.4.2), 4 months ago) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
