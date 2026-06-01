@@ -12,11 +12,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (today)
-- [guillaumedelre/reqlet](https://github.com/guillaumedelre/reqlet) - Open source API client: native desktop GUI, CI-ready CLI, and self-hostable web agent. Postman-compatible, offline-first, no account required. (today)
-- [guillaumedelre/claude](https://github.com/guillaumedelre/claude) - Claude Code behavioral rules — tone, commits, git, docker, reporting, and more (5 days ago)
+- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (1 day ago)
+- [guillaumedelre/reqlet](https://github.com/guillaumedelre/reqlet) - Open source API client: native desktop GUI, CI-ready CLI, and self-hostable web agent. Postman-compatible, offline-first, no account required. (1 day ago)
+- [guillaumedelre/claude](https://github.com/guillaumedelre/claude) - Claude Code behavioral rules — tone, commits, git, docker, reporting, and more (6 days ago)
 - [snc/SncRedisBundle](https://github.com/snc/SncRedisBundle) - A Redis bundle for Symfony supporting Predis and PhpRedis (1 week ago)
-- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (1 week ago)
+- [api-platform/core](https://github.com/api-platform/core) - The server component of API Platform: hypermedia and GraphQL APIs in minutes (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,6 +28,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.4.3](https://github.com/Spomky-Labs/otphp/releases/tag/11.4.3), today) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.7](https://github.com/api-platform/core/releases/tag/v4.3.7), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.4.3](https://github.com/Spomky-Labs/otphp/releases/tag/11.4.3), 1 day ago) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.7](https://github.com/api-platform/core/releases/tag/v4.3.7), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [snc/SncRedisBundle](https://github.com/snc/SncRedisBundle) ([4.11.1](https://github.com/snc/SncRedisBundle/releases/tag/4.11.1), 4 months ago) - A Redis bundle for Symfony supporting Predis and PhpRedis
