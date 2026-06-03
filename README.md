@@ -12,19 +12,19 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [guillaumedelre/cocorico](https://github.com/guillaumedelre/cocorico) -  (today)
 - [dg/bypass-finals](https://github.com/dg/bypass-finals) - Removes `final` and `readonly` keywords from source code on-the-fly and allows mocking of final methods and classes. It can be used together with any test tool such as PHPUnit or Mockery. (2 days ago)
-- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (3 days ago)
 - [guillaumedelre/reqlet](https://github.com/guillaumedelre/reqlet) - Open source API client: native desktop GUI, CI-ready CLI, and self-hostable web agent. Postman-compatible, offline-first, no account required. (3 days ago)
+- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (3 days ago)
 - [guillaumedelre/claude](https://github.com/guillaumedelre/claude) - Claude Code behavioral rules — tone, commits, git, docker, reporting, and more (1 week ago)
+- [snc/SncRedisBundle](https://github.com/snc/SncRedisBundle) - A Redis bundle for Symfony supporting Predis and PhpRedis (2 weeks ago)
 
 #### 🌱 My latest projects
 
-- [guillaumedelre/cocorico](https://github.com/guillaumedelre/cocorico) - 
 - [guillaumedelre/reqlet](https://github.com/guillaumedelre/reqlet) - Open source API client: native desktop GUI, CI-ready CLI, and self-hostable web agent. Postman-compatible, offline-first, no account required.
 - [guillaumedelre/homelab](https://github.com/guillaumedelre/homelab) - Infrastructure self-hosted orchestrée avec Traefik et Docker Compose
 - [guillaumedelre/guillaumedelre.github.io](https://github.com/guillaumedelre/guillaumedelre.github.io) - Tech experiments told as stories · PHP, Symfony, IoT, devops · Jekyll on GitHub Pages
 - [guillaumedelre/gh-pr-tracker](https://github.com/guillaumedelre/gh-pr-tracker) - A self-hosted GitHub PR dashboard
+- [guillaumedelre/dream-cheeky-thunder](https://github.com/guillaumedelre/dream-cheeky-thunder) - Self-hosted REST API &#43; web UI to control the Dream Cheeky USB missile launcher over HTTP. Built with FastAPI, packaged as Docker image. Supports Linux and Windows (WSL2). 
 
 #### 🔭 Latest releases I've contributed to
 
