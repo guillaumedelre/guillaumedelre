@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [guillaumedelre/miru](https://github.com/guillaumedelre/miru) - Application de suivi d&#39;animes, séries et films avec calendrier de diffusion hebdomadaire (today)
+- [guillaumedelre/miru](https://github.com/guillaumedelre/miru) - Media tracking app (anime, series, movies) with a weekly airing calendar (today)
 - [guillaumedelre/guillaumedelre.github.io](https://github.com/guillaumedelre/guillaumedelre.github.io) - Tech experiments told as stories · PHP, Symfony, IoT, devops · Jekyll on GitHub Pages (2 days ago)
 - [dg/bypass-finals](https://github.com/dg/bypass-finals) - Removes `final` and `readonly` keywords from source code on-the-fly and allows mocking of final methods and classes. It can be used together with any test tool such as PHPUnit or Mockery. (5 days ago)
 - [guillaumedelre/reqlet](https://github.com/guillaumedelre/reqlet) - Open source API client: native desktop GUI, CI-ready CLI, and self-hostable web agent. Postman-compatible, offline-first, no account required. (6 days ago)
@@ -20,7 +20,7 @@
 
 #### 🌱 My latest projects
 
-- [guillaumedelre/miru](https://github.com/guillaumedelre/miru) - Application de suivi d&#39;animes, séries et films avec calendrier de diffusion hebdomadaire
+- [guillaumedelre/miru](https://github.com/guillaumedelre/miru) - Media tracking app (anime, series, movies) with a weekly airing calendar
 - [guillaumedelre/reqlet](https://github.com/guillaumedelre/reqlet) - Open source API client: native desktop GUI, CI-ready CLI, and self-hostable web agent. Postman-compatible, offline-first, no account required.
 - [guillaumedelre/homelab](https://github.com/guillaumedelre/homelab) - Infrastructure self-hosted orchestrée avec Traefik et Docker Compose
 - [guillaumedelre/guillaumedelre.github.io](https://github.com/guillaumedelre/guillaumedelre.github.io) - Tech experiments told as stories · PHP, Symfony, IoT, devops · Jekyll on GitHub Pages
