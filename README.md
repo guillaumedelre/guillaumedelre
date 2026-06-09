@@ -4,8 +4,8 @@
 
 #### 📜 My recent blog posts
 
-- [I stopped waiting for TVTime](https://guillaumedelre.github.io/2026/06/06/i-stopped-waiting-for-tvtime/) (2 days ago)
-- [Symfony 8.1: HTTP-less kernel, declarative rate limiting, and Messenger batch fetching](https://guillaumedelre.github.io/2026/06/04/symfony-8.1-http-less-kernel-declarative-rate-limiting-and-messenger-batch-fetching/) (4 days ago)
+- [I stopped waiting for TVTime](https://guillaumedelre.github.io/2026/06/06/i-stopped-waiting-for-tvtime/) (3 days ago)
+- [Symfony 8.1: HTTP-less kernel, declarative rate limiting, and Messenger batch fetching](https://guillaumedelre.github.io/2026/06/04/symfony-8.1-http-less-kernel-declarative-rate-limiting-and-messenger-batch-fetching/) (5 days ago)
 - [Eleven Out of Twelve](https://guillaumedelre.github.io/2026/05/17/eleven-out-of-twelve/) (3 weeks ago)
 - [Ready Is Not the Same as Started](https://guillaumedelre.github.io/2026/05/17/ready-is-not-the-same-as-started/) (3 weeks ago)
 - [The Cache That Was Lying to Us](https://guillaumedelre.github.io/2026/05/16/the-cache-that-was-lying-to-us/) (3 weeks ago)
@@ -13,7 +13,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [guillaumedelre/miru](https://github.com/guillaumedelre/miru) - Media tracking app (anime, series, movies) with a weekly airing calendar (1 day ago)
-- [guillaumedelre/guillaumedelre.github.io](https://github.com/guillaumedelre/guillaumedelre.github.io) - Tech experiments told as stories · PHP, Symfony, IoT, devops · Jekyll on GitHub Pages (2 days ago)
+- [guillaumedelre/guillaumedelre.github.io](https://github.com/guillaumedelre/guillaumedelre.github.io) - Tech experiments told as stories · PHP, Symfony, IoT, devops · Jekyll on GitHub Pages (3 days ago)
 - [dg/bypass-finals](https://github.com/dg/bypass-finals) - Removes `final` and `readonly` keywords from source code on-the-fly and allows mocking of final methods and classes. It can be used together with any test tool such as PHPUnit or Mockery. (1 week ago)
 - [guillaumedelre/reqlet](https://github.com/guillaumedelre/reqlet) - Open source API client: native desktop GUI, CI-ready CLI, and self-hostable web agent. Postman-compatible, offline-first, no account required. (1 week ago)
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (1 week ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.5.0](https://github.com/Spomky-Labs/otphp/releases/tag/11.5.0), 2 days ago) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.10](https://github.com/api-platform/core/releases/tag/v4.3.10), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.5.0](https://github.com/Spomky-Labs/otphp/releases/tag/11.5.0), 3 days ago) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.10](https://github.com/api-platform/core/releases/tag/v4.3.10), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [dg/bypass-finals](https://github.com/dg/bypass-finals) ([v1.10.1](https://github.com/dg/bypass-finals/releases/tag/v1.10.1), 1 week ago) - Removes `final` and `readonly` keywords from source code on-the-fly and allows mocking of final methods and classes. It can be used together with any test tool such as PHPUnit or Mockery.
 - [snc/SncRedisBundle](https://github.com/snc/SncRedisBundle) ([4.11.1](https://github.com/snc/SncRedisBundle/releases/tag/4.11.1), 4 months ago) - A Redis bundle for Symfony supporting Predis and PhpRedis
