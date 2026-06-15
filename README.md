@@ -8,13 +8,13 @@
 - [Symfony 8.1: HTTP-less kernel, declarative rate limiting, and Messenger batch fetching](https://guillaumedelre.github.io/2026/06/04/symfony-8.1-http-less-kernel-declarative-rate-limiting-and-messenger-batch-fetching/) (1 week ago)
 - [Eleven Out of Twelve](https://guillaumedelre.github.io/2026/05/17/eleven-out-of-twelve/) (4 weeks ago)
 - [Ready Is Not the Same as Started](https://guillaumedelre.github.io/2026/05/17/ready-is-not-the-same-as-started/) (4 weeks ago)
-- [The Cache That Was Lying to Us](https://guillaumedelre.github.io/2026/05/16/the-cache-that-was-lying-to-us/) (4 weeks ago)
+- [The Cache That Was Lying to Us](https://guillaumedelre.github.io/2026/05/16/the-cache-that-was-lying-to-us/) (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [guillaumedelre/miru](https://github.com/guillaumedelre/miru) - Media tracking app (anime, series, movies) with a weekly airing calendar (4 days ago)
+- [guillaumedelre/miru](https://github.com/guillaumedelre/miru) - Media tracking app (anime, series, movies) with a weekly airing calendar (5 days ago)
 - [guillaumedelre/guillaumedelre.github.io](https://github.com/guillaumedelre/guillaumedelre.github.io) - Tech experiments told as stories · PHP, Symfony, IoT, devops · Jekyll on GitHub Pages (1 week ago)
-- [dg/bypass-finals](https://github.com/dg/bypass-finals) - Removes `final` and `readonly` keywords from source code on-the-fly and allows mocking of final methods and classes. It can be used together with any test tool such as PHPUnit or Mockery. (1 week ago)
+- [dg/bypass-finals](https://github.com/dg/bypass-finals) - Removes `final` and `readonly` keywords from source code on-the-fly and allows mocking of final methods and classes. It can be used together with any test tool such as PHPUnit or Mockery. (2 weeks ago)
 - [guillaumedelre/reqlet](https://github.com/guillaumedelre/reqlet) - Open source API client: native desktop GUI, CI-ready CLI, and self-hostable web agent. Postman-compatible, offline-first, no account required. (2 weeks ago)
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP) (2 weeks ago)
 
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.13](https://github.com/api-platform/core/releases/tag/v4.3.13), 1 day ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [snc/SncRedisBundle](https://github.com/snc/SncRedisBundle) ([4.12.0](https://github.com/snc/SncRedisBundle/releases/tag/4.12.0), 2 days ago) - A Redis bundle for Symfony supporting Predis and PhpRedis
+- [api-platform/core](https://github.com/api-platform/core) ([v4.3.13](https://github.com/api-platform/core/releases/tag/v4.3.13), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [snc/SncRedisBundle](https://github.com/snc/SncRedisBundle) ([4.12.0](https://github.com/snc/SncRedisBundle/releases/tag/4.12.0), 3 days ago) - A Redis bundle for Symfony supporting Predis and PhpRedis
 - [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) ([11.5.0](https://github.com/Spomky-Labs/otphp/releases/tag/11.5.0), 1 week ago) - :closed_lock_with_key: A PHP library for generating one time passwords according to RFC 4226 (HOTP) and the RFC 6238 (TOTP)
-- [dg/bypass-finals](https://github.com/dg/bypass-finals) ([v1.10.1](https://github.com/dg/bypass-finals/releases/tag/v1.10.1), 1 week ago) - Removes `final` and `readonly` keywords from source code on-the-fly and allows mocking of final methods and classes. It can be used together with any test tool such as PHPUnit or Mockery.
+- [dg/bypass-finals](https://github.com/dg/bypass-finals) ([v1.10.1](https://github.com/dg/bypass-finals/releases/tag/v1.10.1), 2 weeks ago) - Removes `final` and `readonly` keywords from source code on-the-fly and allows mocking of final methods and classes. It can be used together with any test tool such as PHPUnit or Mockery.
