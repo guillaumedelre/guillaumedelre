@@ -12,8 +12,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [guillaumedelre/hexrealm](https://github.com/guillaumedelre/hexrealm) -  (5 days ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (5 days ago)
+- [guillaumedelre/hexrealm](https://github.com/guillaumedelre/hexrealm) -  (6 days ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (6 days ago)
 - [guillaumedelre/miru](https://github.com/guillaumedelre/miru) - Media tracking app (anime, series, movies) with a weekly airing calendar (1 month ago)
 - [guillaumedelre/guillaumedelre.github.io](https://github.com/guillaumedelre/guillaumedelre.github.io) - Tech experiments told as stories · PHP, Symfony, IoT, devops · Jekyll on GitHub Pages (1 month ago)
 - [dg/bypass-finals](https://github.com/dg/bypass-finals) - Removes `final` and `readonly` keywords from source code on-the-fly and allows mocking of final methods and classes. It can be used together with any test tool such as PHPUnit or Mockery. (1 month ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [guillaumedelre/hexrealm](https://github.com/guillaumedelre/hexrealm) ([v0.1.0](https://github.com/guillaumedelre/hexrealm/releases/tag/v0.1.0), 5 days ago) - 
+- [guillaumedelre/hexrealm](https://github.com/guillaumedelre/hexrealm) ([v0.1.0](https://github.com/guillaumedelre/hexrealm/releases/tag/v0.1.0), 6 days ago) - 
 - [api-platform/core](https://github.com/api-platform/core) ([v5.0.0-alpha.2](https://github.com/api-platform/core/releases/tag/v5.0.0-alpha.2), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.1](https://github.com/symfony/symfony/releases/tag/v8.1.1), 3 weeks ago) - The Symfony PHP framework
 - [snc/SncRedisBundle](https://github.com/snc/SncRedisBundle) ([4.12.0](https://github.com/snc/SncRedisBundle/releases/tag/4.12.0), 1 month ago) - A Redis bundle for Symfony supporting Predis and PhpRedis
