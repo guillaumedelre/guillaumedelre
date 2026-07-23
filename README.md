@@ -13,8 +13,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [guillaumedelre/3d-assets-viewer](https://github.com/guillaumedelre/3d-assets-viewer) -  (today)
-- [guillaumedelre/hexrealm](https://github.com/guillaumedelre/hexrealm) -  (6 days ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (6 days ago)
+- [guillaumedelre/hexrealm](https://github.com/guillaumedelre/hexrealm) -  (6 days ago)
 - [guillaumedelre/miru](https://github.com/guillaumedelre/miru) - Media tracking app (anime, series, movies) with a weekly airing calendar (1 month ago)
 - [guillaumedelre/guillaumedelre.github.io](https://github.com/guillaumedelre/guillaumedelre.github.io) - Tech experiments told as stories · PHP, Symfony, IoT, devops · Jekyll on GitHub Pages (1 month ago)
 
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [guillaumedelre/3d-assets-viewer](https://github.com/guillaumedelre/3d-assets-viewer) ([v1.0.2](https://github.com/guillaumedelre/3d-assets-viewer/releases/tag/v1.0.2), today) - 
+- [guillaumedelre/3d-assets-viewer](https://github.com/guillaumedelre/3d-assets-viewer) ([v1.1.0](https://github.com/guillaumedelre/3d-assets-viewer/releases/tag/v1.1.0), today) - 
 - [guillaumedelre/hexrealm](https://github.com/guillaumedelre/hexrealm) ([v0.1.0](https://github.com/guillaumedelre/hexrealm/releases/tag/v0.1.0), 6 days ago) - 
 - [api-platform/core](https://github.com/api-platform/core) ([v5.0.0-alpha.2](https://github.com/api-platform/core/releases/tag/v5.0.0-alpha.2), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.1](https://github.com/symfony/symfony/releases/tag/v8.1.1), 3 weeks ago) - The Symfony PHP framework
