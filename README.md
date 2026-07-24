@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [dg/bypass-finals](https://github.com/dg/bypass-finals) ([v1.11.0](https://github.com/dg/bypass-finals/releases/tag/v1.11.0), today) - Removes `final` and `readonly` keywords from source code on-the-fly and allows mocking of final methods and classes. It can be used together with any test tool such as PHPUnit or Mockery.
 - [guillaumedelre/3d-assets-viewer](https://github.com/guillaumedelre/3d-assets-viewer) ([v1.1.0](https://github.com/guillaumedelre/3d-assets-viewer/releases/tag/v1.1.0), 1 day ago) - 
 - [guillaumedelre/hexrealm](https://github.com/guillaumedelre/hexrealm) ([v0.1.0](https://github.com/guillaumedelre/hexrealm/releases/tag/v0.1.0), 1 week ago) - 
 - [api-platform/core](https://github.com/api-platform/core) ([v5.0.0-alpha.2](https://github.com/api-platform/core/releases/tag/v5.0.0-alpha.2), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.1](https://github.com/symfony/symfony/releases/tag/v8.1.1), 3 weeks ago) - The Symfony PHP framework
-- [snc/SncRedisBundle](https://github.com/snc/SncRedisBundle) ([4.12.0](https://github.com/snc/SncRedisBundle/releases/tag/4.12.0), 1 month ago) - A Redis bundle for Symfony supporting Predis and PhpRedis
