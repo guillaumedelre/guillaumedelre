@@ -13,7 +13,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [snc/SncRedisBundle](https://github.com/snc/SncRedisBundle) - A Redis bundle for Symfony supporting Predis and PhpRedis (1 week ago)
-- [guillaumedelre/3d-assets-viewer](https://github.com/guillaumedelre/3d-assets-viewer) -  (1 week ago)
+- [guillaumedelre/3d-assets-viewer](https://github.com/guillaumedelre/3d-assets-viewer) -  (2 weeks ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 weeks ago)
 - [guillaumedelre/hexrealm](https://github.com/guillaumedelre/hexrealm) -  (2 weeks ago)
 - [guillaumedelre/miru](https://github.com/guillaumedelre/miru) - Media tracking app (anime, series, movies) with a weekly airing calendar (1 month ago)
@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [snc/SncRedisBundle](https://github.com/snc/SncRedisBundle) ([4.13.1](https://github.com/snc/SncRedisBundle/releases/tag/4.13.1), 3 days ago) - A Redis bundle for Symfony supporting Predis and PhpRedis
+- [snc/SncRedisBundle](https://github.com/snc/SncRedisBundle) ([4.13.1](https://github.com/snc/SncRedisBundle/releases/tag/4.13.1), 4 days ago) - A Redis bundle for Symfony supporting Predis and PhpRedis
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.3](https://github.com/symfony/symfony/releases/tag/v8.1.3), 1 week ago) - The Symfony PHP framework
 - [dg/bypass-finals](https://github.com/dg/bypass-finals) ([v1.11.0](https://github.com/dg/bypass-finals/releases/tag/v1.11.0), 1 week ago) - Removes `final` and `readonly` keywords from source code on-the-fly and allows mocking of final methods and classes. It can be used together with any test tool such as PHPUnit or Mockery.
-- [guillaumedelre/3d-assets-viewer](https://github.com/guillaumedelre/3d-assets-viewer) ([v1.1.0](https://github.com/guillaumedelre/3d-assets-viewer/releases/tag/v1.1.0), 1 week ago) - 
+- [guillaumedelre/3d-assets-viewer](https://github.com/guillaumedelre/3d-assets-viewer) ([v1.1.0](https://github.com/guillaumedelre/3d-assets-viewer/releases/tag/v1.1.0), 2 weeks ago) - 
 - [guillaumedelre/hexrealm](https://github.com/guillaumedelre/hexrealm) ([v0.1.0](https://github.com/guillaumedelre/hexrealm/releases/tag/v0.1.0), 2 weeks ago) - 
