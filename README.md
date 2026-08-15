@@ -6,8 +6,8 @@
 
 - [I stopped waiting for TVTime](https://guillaumedelre.github.io/2026/06/06/i-stopped-waiting-for-tvtime/) (2 months ago)
 - [Symfony 8.1: HTTP-less kernel, declarative rate limiting, and Messenger batch fetching](https://guillaumedelre.github.io/2026/06/04/symfony-8.1-http-less-kernel-declarative-rate-limiting-and-messenger-batch-fetching/) (2 months ago)
-- [Eleven Out of Twelve](https://guillaumedelre.github.io/2026/05/17/eleven-out-of-twelve/) (2 months ago)
-- [Ready Is Not the Same as Started](https://guillaumedelre.github.io/2026/05/17/ready-is-not-the-same-as-started/) (2 months ago)
+- [Eleven Out of Twelve](https://guillaumedelre.github.io/2026/05/17/eleven-out-of-twelve/) (3 months ago)
+- [Ready Is Not the Same as Started](https://guillaumedelre.github.io/2026/05/17/ready-is-not-the-same-as-started/) (3 months ago)
 - [The Cache That Was Lying to Us](https://guillaumedelre.github.io/2026/05/16/the-cache-that-was-lying-to-us/) (3 months ago)
 
 #### 👷 Check out what I'm currently working on
