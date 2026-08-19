@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [snc/SncRedisBundle](https://github.com/snc/SncRedisBundle) - A Redis bundle for Symfony supporting Predis and PhpRedis (2 weeks ago)
+- [snc/SncRedisBundle](https://github.com/snc/SncRedisBundle) - A Redis bundle for Symfony supporting Predis and PhpRedis (3 weeks ago)
 - [guillaumedelre/3d-assets-viewer](https://github.com/guillaumedelre/3d-assets-viewer) -  (3 weeks ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 month ago)
 - [guillaumedelre/hexrealm](https://github.com/guillaumedelre/hexrealm) -  (1 month ago)
