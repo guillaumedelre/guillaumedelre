@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v4.3.18](https://github.com/api-platform/core/releases/tag/v4.3.18), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.0-alpha.3](https://github.com/api-platform/core/releases/tag/v5.0.0-alpha.3), today) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.6](https://github.com/symfony/symfony/releases/tag/v8.1.6), 5 days ago) - The Symfony PHP framework
 - [snc/SncRedisBundle](https://github.com/snc/SncRedisBundle) ([4.13.1](https://github.com/snc/SncRedisBundle/releases/tag/4.13.1), 1 month ago) - A Redis bundle for Symfony supporting Predis and PhpRedis
 - [dg/bypass-finals](https://github.com/dg/bypass-finals) ([v1.11.0](https://github.com/dg/bypass-finals/releases/tag/v1.11.0), 1 month ago) - Removes `final` and `readonly` keywords from source code on-the-fly and allows mocking of final methods and classes. It can be used together with any test tool such as PHPUnit or Mockery.
