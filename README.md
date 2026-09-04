@@ -4,7 +4,7 @@
 
 #### 📜 My recent blog posts
 
-- [I stopped waiting for TVTime](https://guillaumedelre.github.io/2026/06/06/i-stopped-waiting-for-tvtime/) (2 months ago)
+- [I stopped waiting for TVTime](https://guillaumedelre.github.io/2026/06/06/i-stopped-waiting-for-tvtime/) (3 months ago)
 - [Symfony 8.1: HTTP-less kernel, declarative rate limiting, and Messenger batch fetching](https://guillaumedelre.github.io/2026/06/04/symfony-8.1-http-less-kernel-declarative-rate-limiting-and-messenger-batch-fetching/) (3 months ago)
 - [Eleven Out of Twelve](https://guillaumedelre.github.io/2026/05/17/eleven-out-of-twelve/) (3 months ago)
 - [Ready Is Not the Same as Started](https://guillaumedelre.github.io/2026/05/17/ready-is-not-the-same-as-started/) (3 months ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.6](https://github.com/symfony/symfony/releases/tag/v8.1.6), 4 days ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.6](https://github.com/symfony/symfony/releases/tag/v8.1.6), 5 days ago) - The Symfony PHP framework
 - [snc/SncRedisBundle](https://github.com/snc/SncRedisBundle) ([4.13.1](https://github.com/snc/SncRedisBundle/releases/tag/4.13.1), 1 month ago) - A Redis bundle for Symfony supporting Predis and PhpRedis
 - [dg/bypass-finals](https://github.com/dg/bypass-finals) ([v1.11.0](https://github.com/dg/bypass-finals/releases/tag/v1.11.0), 1 month ago) - Removes `final` and `readonly` keywords from source code on-the-fly and allows mocking of final methods and classes. It can be used together with any test tool such as PHPUnit or Mockery.
 - [guillaumedelre/3d-assets-viewer](https://github.com/guillaumedelre/3d-assets-viewer) ([v1.1.0](https://github.com/guillaumedelre/3d-assets-viewer/releases/tag/v1.1.0), 1 month ago) - 
