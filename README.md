@@ -12,19 +12,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [guillaumedelre/worldseed](https://github.com/guillaumedelre/worldseed) -  (today)
 - [snc/SncRedisBundle](https://github.com/snc/SncRedisBundle) - A Redis bundle for Symfony supporting Predis and PhpRedis (1 month ago)
 - [guillaumedelre/3d-assets-viewer](https://github.com/guillaumedelre/3d-assets-viewer) -  (1 month ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 month ago)
 - [guillaumedelre/hexrealm](https://github.com/guillaumedelre/hexrealm) -  (1 month ago)
-- [guillaumedelre/miru](https://github.com/guillaumedelre/miru) - Media tracking app (anime, series, movies) with a weekly airing calendar (3 months ago)
 
 #### 🌱 My latest projects
 
+- [guillaumedelre/worldseed](https://github.com/guillaumedelre/worldseed) - 
 - [guillaumedelre/3d-assets-viewer](https://github.com/guillaumedelre/3d-assets-viewer) - 
 - [guillaumedelre/hexrealm](https://github.com/guillaumedelre/hexrealm) - 
 - [guillaumedelre/miru](https://github.com/guillaumedelre/miru) - Media tracking app (anime, series, movies) with a weekly airing calendar
 - [guillaumedelre/reqlet](https://github.com/guillaumedelre/reqlet) - Open source API client: native desktop GUI, CI-ready CLI, and self-hostable web agent. Postman-compatible, offline-first, no account required.
-- [guillaumedelre/homelab](https://github.com/guillaumedelre/homelab) - Infrastructure self-hosted orchestrée avec Traefik et Docker Compose
 
 #### 🔭 Latest releases I've contributed to
 
