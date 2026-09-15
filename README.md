@@ -12,11 +12,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [guillaumedelre/worldseed](https://github.com/guillaumedelre/worldseed) -  (today)
+- [guillaumedelre/worldseed](https://github.com/guillaumedelre/worldseed) -  (1 day ago)
 - [snc/SncRedisBundle](https://github.com/snc/SncRedisBundle) - A Redis bundle for Symfony supporting Predis and PhpRedis (1 month ago)
 - [guillaumedelre/3d-assets-viewer](https://github.com/guillaumedelre/3d-assets-viewer) -  (1 month ago)
-- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (1 month ago)
-- [guillaumedelre/hexrealm](https://github.com/guillaumedelre/hexrealm) -  (1 month ago)
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 months ago)
+- [guillaumedelre/hexrealm](https://github.com/guillaumedelre/hexrealm) -  (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.0-beta.1](https://github.com/api-platform/core/releases/tag/v5.0.0-beta.1), 2 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.0-beta.1](https://github.com/api-platform/core/releases/tag/v5.0.0-beta.1), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.6](https://github.com/symfony/symfony/releases/tag/v8.1.6), 2 weeks ago) - The Symfony PHP framework
 - [snc/SncRedisBundle](https://github.com/snc/SncRedisBundle) ([4.13.1](https://github.com/snc/SncRedisBundle/releases/tag/4.13.1), 1 month ago) - A Redis bundle for Symfony supporting Predis and PhpRedis
 - [dg/bypass-finals](https://github.com/dg/bypass-finals) ([v1.11.0](https://github.com/dg/bypass-finals/releases/tag/v1.11.0), 1 month ago) - Removes `final` and `readonly` keywords from source code on-the-fly and allows mocking of final methods and classes. It can be used together with any test tool such as PHPUnit or Mockery.
