@@ -12,11 +12,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [felixtapin-crypto/avantTurousse](https://github.com/felixtapin-crypto/avantTurousse) -  (today)
 - [guillaumedelre/worldseed](https://github.com/guillaumedelre/worldseed) -  (2 days ago)
 - [snc/SncRedisBundle](https://github.com/snc/SncRedisBundle) - A Redis bundle for Symfony supporting Predis and PhpRedis (1 month ago)
 - [guillaumedelre/3d-assets-viewer](https://github.com/guillaumedelre/3d-assets-viewer) -  (1 month ago)
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework (2 months ago)
-- [guillaumedelre/hexrealm](https://github.com/guillaumedelre/hexrealm) -  (2 months ago)
 
 #### 🌱 My latest projects
 
