@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [felixtapin-crypto/avantTurousse](https://github.com/felixtapin-crypto/avantTurousse) -  (1 day ago)
+- [felixtapin-crypto/avantTurousse](https://github.com/felixtapin-crypto/avantTurousse) -  (today)
 - [patryyyck/phpflow](https://github.com/patryyyck/phpflow) - Static flow analyzer for PHP applications — trace routes through messages, services, database effects and external HTTP calls without running the app. (2 days ago)
 - [guillaumedelre/worldseed](https://github.com/guillaumedelre/worldseed) -  (3 days ago)
 - [snc/SncRedisBundle](https://github.com/snc/SncRedisBundle) - A Redis bundle for Symfony supporting Predis and PhpRedis (1 month ago)
