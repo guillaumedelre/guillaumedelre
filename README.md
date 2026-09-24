@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [guillaumedelre/worldseed](https://github.com/guillaumedelre/worldseed) -  (1 day ago)
+- [guillaumedelre/worldseed](https://github.com/guillaumedelre/worldseed) - An experiment: a whole world computed in-game from a seed. Unreal Engine 5.8 and C&#43;&#43;, with tectonics, climate calibrated against 23 real weather stations, coupled uplift and erosion, voxel terrain and karst cave networks. (today)
 - [felixtapin-crypto/avantTurousse](https://github.com/felixtapin-crypto/avantTurousse) -  (6 days ago)
 - [patryyyck/phpflow](https://github.com/patryyyck/phpflow) - Static flow analyzer for PHP applications — trace routes through messages, services, database effects and external HTTP calls without running the app. (1 week ago)
 - [snc/SncRedisBundle](https://github.com/snc/SncRedisBundle) - A Redis bundle for Symfony supporting Predis and PhpRedis (1 month ago)
@@ -20,7 +20,7 @@
 
 #### 🌱 My latest projects
 
-- [guillaumedelre/worldseed](https://github.com/guillaumedelre/worldseed) - 
+- [guillaumedelre/worldseed](https://github.com/guillaumedelre/worldseed) - An experiment: a whole world computed in-game from a seed. Unreal Engine 5.8 and C&#43;&#43;, with tectonics, climate calibrated against 23 real weather stations, coupled uplift and erosion, voxel terrain and karst cave networks.
 - [guillaumedelre/3d-assets-viewer](https://github.com/guillaumedelre/3d-assets-viewer) - 
 - [guillaumedelre/hexrealm](https://github.com/guillaumedelre/hexrealm) - 
 - [guillaumedelre/miru](https://github.com/guillaumedelre/miru) - Media tracking app (anime, series, movies) with a weekly airing calendar
