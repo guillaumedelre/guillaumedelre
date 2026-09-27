@@ -12,9 +12,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [patryyyck/phpflow](https://github.com/patryyyck/phpflow) - Static flow analyzer for PHP applications — trace routes through messages, services, database effects and external HTTP calls without running the app. (3 days ago)
 - [guillaumedelre/worldseed](https://github.com/guillaumedelre/worldseed) - An experiment: a whole world computed in-game from a seed. Unreal Engine 5.8 and C&#43;&#43;, with tectonics, climate calibrated against 23 real weather stations, coupled uplift and erosion, voxel terrain and karst cave networks. (3 days ago)
 - [felixtapin-crypto/avantTurousse](https://github.com/felixtapin-crypto/avantTurousse) -  (1 week ago)
-- [patryyyck/phpflow](https://github.com/patryyyck/phpflow) - Static flow analyzer for PHP applications — trace routes through messages, services, database effects and external HTTP calls without running the app. (1 week ago)
 - [snc/SncRedisBundle](https://github.com/snc/SncRedisBundle) - A Redis bundle for Symfony supporting Predis and PhpRedis (2 months ago)
 - [guillaumedelre/3d-assets-viewer](https://github.com/guillaumedelre/3d-assets-viewer) -  (2 months ago)
 
