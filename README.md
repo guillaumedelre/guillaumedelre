@@ -12,16 +12,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [guillaumedelre/worldseed](https://github.com/guillaumedelre/worldseed) - An experiment: a whole world computed in-game from a seed. Unreal Engine 5.8 and C&#43;&#43;, with tectonics, climate calibrated against 23 real weather stations, coupled uplift and erosion, voxel terrain and karst cave networks. (today)
 - [patryyyck/phpflow](https://github.com/patryyyck/phpflow) - Static flow analyzer for PHP applications — trace routes through messages, services, database effects and external HTTP calls without running the app. (4 days ago)
-- [guillaumedelre/worldseed](https://github.com/guillaumedelre/worldseed) - An experiment: a whole world computed in-game from a seed. Unreal Engine 5.8 and C&#43;&#43;, with tectonics, climate calibrated against 23 real weather stations, coupled uplift and erosion, voxel terrain and karst cave networks. (4 days ago)
 - [felixtapin-crypto/avantTurousse](https://github.com/felixtapin-crypto/avantTurousse) -  (1 week ago)
 - [snc/SncRedisBundle](https://github.com/snc/SncRedisBundle) - A Redis bundle for Symfony supporting Predis and PhpRedis (2 months ago)
-- [guillaumedelre/3d-assets-viewer](https://github.com/guillaumedelre/3d-assets-viewer) -  (2 months ago)
+- [guillaumedelre/3d-assets-viewer](https://github.com/guillaumedelre/3d-assets-viewer) - Windows-Explorer-style 3D asset viewer built with Godot 4.7: browse your disk&#39;s folder tree, with disk-cached 3D thumbnails and a real-time orbital preview for glTF, FBX (ufbx, Unity FBX included) and OBJ. (2 months ago)
 
 #### 🌱 My latest projects
 
 - [guillaumedelre/worldseed](https://github.com/guillaumedelre/worldseed) - An experiment: a whole world computed in-game from a seed. Unreal Engine 5.8 and C&#43;&#43;, with tectonics, climate calibrated against 23 real weather stations, coupled uplift and erosion, voxel terrain and karst cave networks.
-- [guillaumedelre/3d-assets-viewer](https://github.com/guillaumedelre/3d-assets-viewer) - 
+- [guillaumedelre/3d-assets-viewer](https://github.com/guillaumedelre/3d-assets-viewer) - Windows-Explorer-style 3D asset viewer built with Godot 4.7: browse your disk&#39;s folder tree, with disk-cached 3D thumbnails and a real-time orbital preview for glTF, FBX (ufbx, Unity FBX included) and OBJ.
 - [guillaumedelre/hexrealm](https://github.com/guillaumedelre/hexrealm) - 
 - [guillaumedelre/miru](https://github.com/guillaumedelre/miru) - Media tracking app (anime, series, movies) with a weekly airing calendar
 - [guillaumedelre/reqlet](https://github.com/guillaumedelre/reqlet) - Open source API client: native desktop GUI, CI-ready CLI, and self-hostable web agent. Postman-compatible, offline-first, no account required.
