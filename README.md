@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [guillaumedelre/worldseed](https://github.com/guillaumedelre/worldseed) - An experiment: a whole world computed in-game from a seed. Unreal Engine 5.8 and C&#43;&#43;, with tectonics, climate calibrated against 23 real weather stations, coupled uplift and erosion, voxel terrain and karst cave networks. (6 days ago)
+- [guillaumedelre/worldseed](https://github.com/guillaumedelre/worldseed) - An experiment: a whole world computed in-game from a seed. Unreal Engine 5.8 and C&#43;&#43;, with tectonics, climate calibrated against 23 real weather stations, coupled uplift and erosion, voxel terrain and karst cave networks. (1 week ago)
 - [patryyyck/phpflow](https://github.com/patryyyck/phpflow) - Static flow analyzer for PHP applications — trace routes through messages, services, database effects and external HTTP calls without running the app. (1 week ago)
 - [felixtapin-crypto/avantTurousse](https://github.com/felixtapin-crypto/avantTurousse) -  (2 weeks ago)
 - [snc/SncRedisBundle](https://github.com/snc/SncRedisBundle) - A Redis bundle for Symfony supporting Predis and PhpRedis (2 months ago)
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.2](https://github.com/api-platform/core/releases/tag/v5.0.2), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.2](https://github.com/api-platform/core/releases/tag/v5.0.2), 5 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.8](https://github.com/symfony/symfony/releases/tag/v8.1.8), 1 week ago) - The Symfony PHP framework
 - [patryyyck/phpflow](https://github.com/patryyyck/phpflow) ([v0.1.0](https://github.com/patryyyck/phpflow/releases/tag/v0.1.0), 1 month ago) - Static flow analyzer for PHP applications — trace routes through messages, services, database effects and external HTTP calls without running the app.
 - [snc/SncRedisBundle](https://github.com/snc/SncRedisBundle) ([4.13.1](https://github.com/snc/SncRedisBundle/releases/tag/4.13.1), 2 months ago) - A Redis bundle for Symfony supporting Predis and PhpRedis
