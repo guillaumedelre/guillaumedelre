@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.9](https://github.com/symfony/symfony/releases/tag/v8.1.9), 1 day ago) - The Symfony PHP framework
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.54](https://github.com/symfony/symfony/releases/tag/v5.4.54), today) - The Symfony PHP framework
 - [api-platform/core](https://github.com/api-platform/core) ([v5.0.3](https://github.com/api-platform/core/releases/tag/v5.0.3), 6 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [patryyyck/phpflow](https://github.com/patryyyck/phpflow) ([v0.1.0](https://github.com/patryyyck/phpflow/releases/tag/v0.1.0), 1 month ago) - Static flow analyzer for PHP applications — trace routes through messages, services, database effects and external HTTP calls without running the app.
 - [snc/SncRedisBundle](https://github.com/snc/SncRedisBundle) ([4.13.1](https://github.com/snc/SncRedisBundle/releases/tag/4.13.1), 2 months ago) - A Redis bundle for Symfony supporting Predis and PhpRedis
