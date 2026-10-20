@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [api-platform/core](https://github.com/api-platform/core) ([v5.0.4](https://github.com/api-platform/core/releases/tag/v5.0.4), 3 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
-- [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.54](https://github.com/symfony/symfony/releases/tag/v5.4.54), 4 days ago) - The Symfony PHP framework
+- [api-platform/core](https://github.com/api-platform/core) ([v5.0.4](https://github.com/api-platform/core/releases/tag/v5.0.4), 4 days ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
+- [symfony/symfony](https://github.com/symfony/symfony) ([v5.4.54](https://github.com/symfony/symfony/releases/tag/v5.4.54), 5 days ago) - The Symfony PHP framework
 - [patryyyck/phpflow](https://github.com/patryyyck/phpflow) ([v0.1.0](https://github.com/patryyyck/phpflow/releases/tag/v0.1.0), 1 month ago) - Static flow analyzer for PHP applications — trace routes through messages, services, database effects and external HTTP calls without running the app.
 - [snc/SncRedisBundle](https://github.com/snc/SncRedisBundle) ([4.13.1](https://github.com/snc/SncRedisBundle/releases/tag/4.13.1), 2 months ago) - A Redis bundle for Symfony supporting Predis and PhpRedis
 - [dg/bypass-finals](https://github.com/dg/bypass-finals) ([v1.11.0](https://github.com/dg/bypass-finals/releases/tag/v1.11.0), 2 months ago) - Removes `final` and `readonly` keywords from source code on-the-fly and allows mocking of final methods and classes. It can be used together with any test tool such as PHPUnit or Mockery.
