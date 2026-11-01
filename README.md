@@ -5,7 +5,7 @@
 #### 📜 My recent blog posts
 
 - [I stopped waiting for TVTime](https://guillaumedelre.github.io/2026/06/06/i-stopped-waiting-for-tvtime/) (4 months ago)
-- [Symfony 8.1: HTTP-less kernel, declarative rate limiting, and Messenger batch fetching](https://guillaumedelre.github.io/2026/06/04/symfony-8.1-http-less-kernel-declarative-rate-limiting-and-messenger-batch-fetching/) (4 months ago)
+- [Symfony 8.1: HTTP-less kernel, declarative rate limiting, and Messenger batch fetching](https://guillaumedelre.github.io/2026/06/04/symfony-8.1-http-less-kernel-declarative-rate-limiting-and-messenger-batch-fetching/) (5 months ago)
 - [Eleven Out of Twelve](https://guillaumedelre.github.io/2026/05/17/eleven-out-of-twelve/) (5 months ago)
 - [Ready Is Not the Same as Started](https://guillaumedelre.github.io/2026/05/17/ready-is-not-the-same-as-started/) (5 months ago)
 - [The Cache That Was Lying to Us](https://guillaumedelre.github.io/2026/05/16/the-cache-that-was-lying-to-us/) (5 months ago)
@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.10](https://github.com/symfony/symfony/releases/tag/v8.1.10), 3 days ago) - The Symfony PHP framework
-- [dg/bypass-finals](https://github.com/dg/bypass-finals) ([v1.11.1](https://github.com/dg/bypass-finals/releases/tag/v1.11.1), 6 days ago) - Removes `final` and `readonly` keywords from source code on-the-fly and allows mocking of final methods and classes. It can be used together with any test tool such as PHPUnit or Mockery.
+- [symfony/symfony](https://github.com/symfony/symfony) ([v8.1.10](https://github.com/symfony/symfony/releases/tag/v8.1.10), 4 days ago) - The Symfony PHP framework
+- [dg/bypass-finals](https://github.com/dg/bypass-finals) ([v1.11.1](https://github.com/dg/bypass-finals/releases/tag/v1.11.1), 1 week ago) - Removes `final` and `readonly` keywords from source code on-the-fly and allows mocking of final methods and classes. It can be used together with any test tool such as PHPUnit or Mockery.
 - [api-platform/core](https://github.com/api-platform/core) ([v5.0.5](https://github.com/api-platform/core/releases/tag/v5.0.5), 1 week ago) - The server component of API Platform: hypermedia and GraphQL APIs in minutes
 - [patryyyck/phpflow](https://github.com/patryyyck/phpflow) ([v0.1.0](https://github.com/patryyyck/phpflow/releases/tag/v0.1.0), 2 months ago) - Static flow analyzer for PHP applications — trace routes through messages, services, database effects and external HTTP calls without running the app.
 - [snc/SncRedisBundle](https://github.com/snc/SncRedisBundle) ([4.13.1](https://github.com/snc/SncRedisBundle/releases/tag/4.13.1), 3 months ago) - A Redis bundle for Symfony supporting Predis and PhpRedis
