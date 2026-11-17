@@ -4,27 +4,11 @@
 
 #### 📜 My recent blog posts
 
-- [I stopped waiting for TVTime](https://guillaumedelre.github.io/2026/06/06/i-stopped-waiting-for-tvtime/) (5 months ago)
-- [Symfony 8.1: HTTP-less kernel, declarative rate limiting, and Messenger batch fetching](https://guillaumedelre.github.io/2026/06/04/symfony-8.1-http-less-kernel-declarative-rate-limiting-and-messenger-batch-fetching/) (5 months ago)
-- [Eleven Out of Twelve](https://guillaumedelre.github.io/2026/05/17/eleven-out-of-twelve/) (6 months ago)
-- [Ready Is Not the Same as Started](https://guillaumedelre.github.io/2026/05/17/ready-is-not-the-same-as-started/) (6 months ago)
-- [The Cache That Was Lying to Us](https://guillaumedelre.github.io/2026/05/16/the-cache-that-was-lying-to-us/) (6 months ago)
-
-#### 👷 Check out what I'm currently working on
-
-- [patryyyck/phpflow](https://github.com/patryyyck/phpflow) - Static flow analyzer for PHP applications — trace routes through messages, services, database effects and external HTTP calls without running the app. (1 month ago)
-- [guillaumedelre/worldseed](https://github.com/guillaumedelre/worldseed) - An experiment: a whole world computed in-game from a seed. Unreal Engine 5.8 and C&#43;&#43;, with tectonics, climate calibrated against 23 real weather stations, coupled uplift and erosion, voxel terrain and karst cave networks. (1 month ago)
-- [felixtapin-crypto/avantTurousse](https://github.com/felixtapin-crypto/avantTurousse) -  (2 months ago)
-- [snc/SncRedisBundle](https://github.com/snc/SncRedisBundle) - A Redis bundle for Symfony supporting Predis and PhpRedis (3 months ago)
-- [guillaumedelre/3d-assets-viewer](https://github.com/guillaumedelre/3d-assets-viewer) - Windows-Explorer-style 3D asset viewer built with Godot 4.7: browse your disk&#39;s folder tree, with disk-cached 3D thumbnails and a real-time orbital preview for glTF, FBX (ufbx, Unity FBX included) and OBJ. (3 months ago)
-
-#### 🌱 My latest projects
-
-- [guillaumedelre/worldseed](https://github.com/guillaumedelre/worldseed) - An experiment: a whole world computed in-game from a seed. Unreal Engine 5.8 and C&#43;&#43;, with tectonics, climate calibrated against 23 real weather stations, coupled uplift and erosion, voxel terrain and karst cave networks.
-- [guillaumedelre/3d-assets-viewer](https://github.com/guillaumedelre/3d-assets-viewer) - Windows-Explorer-style 3D asset viewer built with Godot 4.7: browse your disk&#39;s folder tree, with disk-cached 3D thumbnails and a real-time orbital preview for glTF, FBX (ufbx, Unity FBX included) and OBJ.
-- [guillaumedelre/hexrealm](https://github.com/guillaumedelre/hexrealm) - 
-- [guillaumedelre/miru](https://github.com/guillaumedelre/miru) - Media tracking app (anime, series, movies) with a weekly airing calendar
-- [guillaumedelre/reqlet](https://github.com/guillaumedelre/reqlet) - Open source API client: native desktop GUI, CI-ready CLI, and self-hostable web agent. Postman-compatible, offline-first, no account required.
+- [Keeping an eye on several Claude Code sessions at once](https://guillaumedelre.github.io/2026/11/17/keeping-an-eye-on-several-claude-code-sessions-at-once/) (today)
+- [Building a self-hosted homelab with Docker Compose and Traefik](https://guillaumedelre.github.io/2026/02/17/building-a-self-hosted-homelab-with-docker-compose-and-traefik/) (9 months ago)
+- [Local HTTPS with Traefik: traefik.me is dead, long live sslip.io](https://guillaumedelre.github.io/2025/04/17/local-https-with-traefik-traefik.me-is-dead-long-live-sslip.io/) (2 years ago)
+- [From a €10 sensor to a Home Assistant dashboard with a Raspberry Pi and MQTT](https://guillaumedelre.github.io/2019/11/17/from-a-10-sensor-to-a-home-assistant-dashboard-with-a-raspberry-pi-and-mqtt/) (7 years ago)
+- [Controlling a USB missile launcher over HTTP with FastAPI and Docker](https://guillaumedelre.github.io/2017/02/21/controlling-a-usb-missile-launcher-over-http-with-fastapi-and-docker/) (9 years ago)
 
 #### 🔭 Latest releases I've contributed to
 
