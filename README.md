@@ -4,11 +4,11 @@
 
 #### 📜 My recent blog posts
 
-- [Keeping an eye on several Claude Code sessions at once](https://guillaumedelre.github.io/2026/11/17/keeping-an-eye-on-several-claude-code-sessions-at-once/) (1 day ago)
-- [Building a self-hosted homelab with Docker Compose and Traefik](https://guillaumedelre.github.io/2026/05/17/building-a-self-hosted-homelab-with-docker-compose-and-traefik/) (6 months ago)
-- [Controlling a USB missile launcher over HTTP with FastAPI and Docker](https://guillaumedelre.github.io/2026/05/14/controlling-a-usb-missile-launcher-over-http-with-fastapi-and-docker/) (6 months ago)
-- [From a €10 sensor to a Home Assistant dashboard with a Raspberry Pi and MQTT](https://guillaumedelre.github.io/2026/05/14/from-a-10-sensor-to-a-home-assistant-dashboard-with-a-raspberry-pi-and-mqtt/) (6 months ago)
-- [Local HTTPS with Traefik: traefik.me is dead, long live sslip.io](https://guillaumedelre.github.io/2025/04/17/local-https-with-traefik-traefik.me-is-dead-long-live-sslip.io/) (2 years ago)
+- [Garder un œil sur plusieurs sessions Claude Code à la fois](https://guillaumedelre.github.io/2026/11/17/garder-un-oeil-sur-plusieurs-sessions-claude-code-a-la-fois/) (1 day ago)
+- [Concevoir un homelab qui survit à ses services](https://guillaumedelre.github.io/2026/05/17/concevoir-un-homelab-qui-survit-%C3%A0-ses-services/) (6 months ago)
+- [Contrôler un lance-missiles USB en HTTP avec FastAPI et Docker](https://guillaumedelre.github.io/2026/05/14/contr%C3%B4ler-un-lance-missiles-usb-en-http-avec-fastapi-et-docker/) (6 months ago)
+- [D&#39;un capteur à 10 € à un tableau de bord Home Assistant avec Raspberry Pi et MQTT](https://guillaumedelre.github.io/2026/05/14/dun-capteur-%C3%A0-10-%C3%A0-un-tableau-de-bord-home-assistant-avec-raspberry-pi-et-mqtt/) (6 months ago)
+- [HTTPS local avec Traefik : traefik.me est mort, vive sslip.io](https://guillaumedelre.github.io/2025/04/17/https-local-avec-traefik-traefik.me-est-mort-vive-sslip.io/) (2 years ago)
 
 #### 🔭 Latest releases I've contributed to
 
