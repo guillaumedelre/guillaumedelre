@@ -4,11 +4,11 @@
 
 #### 📜 My recent blog posts
 
+- [HTTPS dans un homelab : domaine, challenge DNS et Pi-hole](https://guillaumedelre.github.io/2026/11/19/https-dans-un-homelab-domaine-challenge-dns-et-pi-hole/) (today)
 - [Garder un œil sur plusieurs sessions Claude Code à la fois](https://guillaumedelre.github.io/2026/11/17/garder-un-oeil-sur-plusieurs-sessions-claude-code-a-la-fois/) (2 days ago)
 - [Concevoir un homelab qui survit à ses services](https://guillaumedelre.github.io/2026/05/17/concevoir-un-homelab-qui-survit-%C3%A0-ses-services/) (6 months ago)
 - [Contrôler un lance-missiles USB en HTTP avec FastAPI et Docker](https://guillaumedelre.github.io/2026/05/14/contr%C3%B4ler-un-lance-missiles-usb-en-http-avec-fastapi-et-docker/) (6 months ago)
 - [D&#39;un capteur à 10 € à un tableau de bord Home Assistant avec Raspberry Pi et MQTT](https://guillaumedelre.github.io/2026/05/14/dun-capteur-%C3%A0-10-%C3%A0-un-tableau-de-bord-home-assistant-avec-raspberry-pi-et-mqtt/) (6 months ago)
-- [HTTPS local avec Traefik : traefik.me est mort, vive sslip.io](https://guillaumedelre.github.io/2025/04/17/https-local-avec-traefik-traefik.me-est-mort-vive-sslip.io/) (2 years ago)
 
 #### 🔭 Latest releases I've contributed to
 
